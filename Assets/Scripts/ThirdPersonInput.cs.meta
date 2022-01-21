@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1aedcba864830044e81e233725bdec31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LeftJoystick: {instanceID: 0}
+  - Button: {instanceID: 0}
+  - TouchField: {instanceID: 0}
+  - Target: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - characterCamera: {instanceID: 0}
+  - bulletPrefab: {fileID: 2478844435001162192, guid: 4748f72474233934d9557927a4d0ce79,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
